@@ -5,8 +5,7 @@
 
 **作者**：刘政霖（Zhenglin Liu）、尹剑（Jian Yin，通讯作者）
 **单位**：大连医科大学附属第二医院（The Second Affiliated Hospital of Dalian Medical University）
-**投稿期刊**：Seizure（Elsevier）
-
+**投稿期刊**：IJMS
 本仓库为论文全部分析代码的参数化公开版：所有路径集中于 `config/config.R`，**不含任何个人路径与密钥**。
 
 ---
